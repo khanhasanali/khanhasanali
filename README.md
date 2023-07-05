@@ -1,8 +1,8 @@
-![MasterHead](https://grad.uwo.ca/img/programs/mda_Banner.jpg)
+![MasterHead](https://github.com/khanhasanali/khanhasanali/assets/135117848/87d8804c-fb4d-4971-8789-9565c372955f)
+
+
 <h1 align="center">Hi 👋, ɪ'м ʜᴀꜱᴀɴ ᴀʟɪ ᴋʜᴀɴ</h1>
 <h3 align="center">The Data Detective: Uncovering hidden stories</h3>
-
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanhasanali&label=Profile%20views&color=orange&style=plastic" alt="khanhasanali" /> </p>
 

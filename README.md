@@ -1,10 +1,10 @@
 ![MasterHead](https://grad.uwo.ca/img/programs/mda_Banner.jpg)
-<h1 align="center">Hi 👋, I'm ʜᴀꜱᴀɴ ᴀʟɪ ᴋʜᴀɴ</h1>
+<h1 align="center">Hi 👋, ᴵ'ᵐ ʜᴀꜱᴀɴ ᴀʟɪ ᴋʜᴀɴ</h1>
 <h3 align="center">The Data Detective: Uncovering hidden stories</h3>
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khanhasanali&label=Profile%20views&color=0e75b6&style=flat" alt="khanhasanali" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khanhasanali&label=Profile%20views&color=orange&style=plastic" alt="khanhasanali" /> </p>
 
 - 🔭 I’m currently working on **enhancing my skills**
 

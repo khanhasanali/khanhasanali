@@ -1,4 +1,11 @@
-![MasterHead](https://github.com/khanhasanali/khanhasanali/assets/135117848/87d8804c-fb4d-4971-8789-9565c372955f)
+![MasterHead](https://github.com/khanhasanali/khanhasanali/assets/135117848/d7f1e2a1-c7da-48fa-a6d3-18a5723c62d1)
+
+
+
+
+https://github.com/khanhasanali/khanhasanali/assets/135117848/e039e104-8251-4f07-bd83-ee89a28248e2.gif
+
+
 
 
 <h1 align="center">Hi 👋, ɪ'м ʜᴀꜱᴀɴ ᴀʟɪ ᴋʜᴀɴ</h1>

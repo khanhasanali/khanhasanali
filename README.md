@@ -1,5 +1,4 @@
-![MasterHead](https://github.com/khanhasanali/khanhasanali/assets/135117848/d7f1e2a1-c7da-48fa-a6d3-18a5723c62d1)
-
+![](C:\Users\mi\Documents\Resumes\hasangif.gif)
 
 
 

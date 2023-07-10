@@ -1,8 +1,6 @@
-![](C:\Users\mi\Documents\Resumes\hasangif.gif)
-
-
-
-https://github.com/khanhasanali/khanhasanali/assets/135117848/e039e104-8251-4f07-bd83-ee89a28248e2.gif
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjU2Z2llczZhazVicW5jMzRqdWtheTJvbjhpdGo5djNlYTh0M2lzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bTbJA9MYGHe8q2K5Yh/giphy.gif">
+</p>
 
 
 
